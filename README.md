@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a Full Stack Developer
-- 🌱 I’m currently learning microservices and AWS Cloud
+- 🌱 I’m currently learning microservices and AWS Cloud deployment related services
 - 👯 I’m looking to collaborate on Open source Cloud Integration projects
 - 🤔 I’m looking for help with Frontend Design and Development
 <!-- - 💬 Ask me about ...  -->
